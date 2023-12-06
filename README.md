@@ -41,7 +41,7 @@ Em 2022, iniciei meu curso na FATEC em Desenvolvimento de Software Multiplatafor
 
 <p align="justify">Ao iniciar o projeto, eu não possuía conhecimento prévio na área de programação, enfrentando desafios iniciais ao tentar compreender a linguagem Python, já que era meu primeiro contato com linguagens de programação. Ao longo das sprints, no entanto, experimentei uma notável evolução, adquirindo conhecimentos essenciais em modelagem de banco de dados. Essa jornada não apenas expandiu minha compreensão sobre os processos envolvidos na construção de uma aplicação web, abrangendo tanto o desenvolvimento backend quanto frontend, mas também proporcionou um entendimento sobre a integração de ambas as partes. Outra parte foi o aprendizado inicial significativo sobre a metodologia ágil, destacando a importância da flexibilidade e colaboração em um ambiente dinâmico de desenvolvimento. Essa experiência desafiadora não apenas ampliou meu conjunto de habilidades, mas também fortaleceu minha resiliência e capacidade de aprendizado contínuo.</p>
 
-<h3 id="hard-skills">Hard Skills</h3>
+<h3>Hard Skills</h3>
 <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
 <table align="center">
@@ -72,7 +72,7 @@ Em 2022, iniciei meu curso na FATEC em Desenvolvimento de Software Multiplatafor
 </table>
 </details>
 
-<h3 id="soft-skills">Soft Skills</h3>
+<h3>Soft Skills</h3>
 <details>
 <summary><b>Clique para ver a lista de soft skills</b></summary>
   <table align="center">
@@ -203,6 +203,8 @@ Em 2022, iniciei meu curso na FATEC em Desenvolvimento de Software Multiplatafor
 <h4>2023.2</h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.siatt.com.br/siatt/">SIATT</a></p>
 
+[Link para o repositório](https://github.com/Nine-Tech/nine-tech-documentation)
+
 :warning: **Problema:**
 
 <p align="justify">Diante das demandas crescentes do setor agroindustrial e da necessidade de otimizar o controle de recebimento de grãos, identificou-se a carência de um sistema eficiente para gerenciar o processo de entrada e inspeção de mercadorias. A ausência de uma solução dedicada compromete a agilidade, segurança e transparência nas operações, dificultando o acompanhamento em tempo real do status de entrega e a gestão adequada das transações comerciais.</p>
@@ -222,13 +224,66 @@ Em 2022, iniciei meu curso na FATEC em Desenvolvimento de Software Multiplatafor
 - Vite.js - Ferramenta de desenvolvimento (bundler) utilizada no React
 - Mysql -  SGBD utilizado para o armazenamento dos dados
 - Figma - Plataforma utilizada para desenvolvimento e prototipação de wireframes
+- Docker - Utilizado para padronizar a senha do banco de dados
 
 <h3>Contribuições Pessoais</h3>
+<p align="justify">Neste projeto, desempenhei o papel de desenvolvedor, atuando tanto no backend quanto no frontend ao longo das sprints. Contribuí com a implementação da funcionalidade de CRUD para tarefas em um subpacote, desenvolvi a lógica necessária para renderizar os cards de projetos atribuídos aos seus respectivos líderes de projeto e engenheiros chefes. Além disso, fui responsável pela lógica de estender a data final do projeto com base nas datas finais das tarefas.</p>
 
 <h3>Lições Aprendidas</h3>
+<p align="justify">Neste semestre, adquiri uma compreensão mais aprofundada da metodologia Scrum, o que permitiu uma gestão mais eficiente do tempo para a execução das tarefas. Conseguimos manter o foco exclusivamente durante os horários de aula, otimizando a produtividade. A transição para a linguagem Java foi mais ágil devido à experiência prévia com Python e Typescript nos semestres anteriores. Além disso, observei um progresso significativo no entendimento do React, destacando a importância da comunicação efetiva entre a equipe como um ponto crucial para o sucesso do projeto.</p>
 
 <h3>Hard Skills</h3>
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>React</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Docker</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>MySQL</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+  </table>
+</details>
 
 <h3>Soft Skills</h3>
+<details>
+<summary><b>Clique para ver a lista de soft skills</b></summary>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+     <tr>
+      <td>Comunicação</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Adaptabilidade</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Responsabilidade</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+  </table>
+</details>
 
-<p align="justify"> :</p>
+<p align="justify"> <b>Adaptabilidade:</b> Neste semestre fui capaz de adaptar minhas tarefas em resposta às alterações solicitadas pelo cliente ao Product Owner da minha equipe. Essa capacidade de adaptação permitiu-me atender às necessidades do cliente de maneira eficiente, sem ultrapassar os prazos de entrega estabelecidos e sem comprometer o êxito das sprints.</p>
