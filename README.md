@@ -1,7 +1,9 @@
 <h1>Portifólio APIs - Vitor Garcez de Oliveira</h1>
 <p align="center"> <img src="img/img1.jpeg" alt="VitorGarcez" class="center" width=300/> </p>
 <hr>
-
+<p align="justify">Olá! 👋 Tenho 20 anos e sou graduado em técnico em eletrônica pelo Colégio Univap. Durante meu estágio na APS Nobreaks, adquiri experiência em manutenção de nobreaks e estabilizadores.
+Em 2022, iniciei meu curso na FATEC em Desenvolvimento de Software Multiplataforma, onde tive meu primeiro contato significativo com programação. Dentro desse curso, busco constantemente aprender novas tecnologias e linguagens, aprimorando minha habilidade em solucionar problemas do mundo real por meio da programação de softwares.</p> 
+<p align="justify">Atualmente, sou estagiário na Uniodonto SJC, atuando na área de análise de dados e business intelligence (BI). Estou entusiasmado em contribuir para o desenvolvimento e aprimoramento de soluções que impactam positivamente as operações e decisões estratégicas da organização. </p>
 <hr>
 <h2>Meus projetos</h2>
 <h2>Spicecorp - Internet Banking</h2>
