@@ -12,6 +12,8 @@ Em 2022, iniciei meu curso na FATEC em Desenvolvimento de Software Multiplatafor
 <h4>2022.2</h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos</a></p>
 
+[Link para o repositório](https://github.com/https-github-com-spicecorpdev/spicebank)
+
 :warning: **Problema:**
 
 <p align="justify">A crescente digitalização dos serviços bancários trouxe consigo desafios significativos, especialmente no que diz respeito à ausência de sistemas eficazes para Internet Banking. A dificuldade reside na necessidade de proporcionar experiências adequadas aos usuários, uma vez que processos tradicionalmente realizados presencialmente, como transferências, consultas de saldo e pagamentos, tornam-se mais complexos sem uma plataforma digital integrada.</p>
@@ -33,14 +35,75 @@ Em 2022, iniciei meu curso na FATEC em Desenvolvimento de Software Multiplatafor
 - Figma - Plataforma utilizada para desenvolvimento e prototipação de wireframes
 
 <h3>Contribuições Pessoais</h3>
+<p align="justify">Neste projeto, exerci a função de Product Owner, assumindo a responsabilidade pela definição e priorização do Product Backlog, além de liderar uma comunicação eficaz entre a equipe de desenvolvimento e o cliente. Além disso, participei no desenvolvimento, começando pelo frontend na primeira sprint e, posteriormente, dedicando-me ao backend nas demais sprints. Colaborei na implementação eficiente das funcionalidades, atendendo às expectativas do cliente, gerente geral e gerente de agência, permitindo contribuir diretamente para a realização das metas e requisitos estabelecidos.</p>
 
 <h3>Lições Aprendidas</h3>
 
-<h3>Hard Skills</h3>
+<p align="justify">Ao iniciar o projeto, eu não possuía conhecimento prévio na área de programação, enfrentando desafios iniciais ao tentar compreender a linguagem Python, já que era meu primeiro contato com linguagens de programação. Ao longo das sprints, no entanto, experimentei uma notável evolução, adquirindo conhecimentos essenciais em modelagem de banco de dados. Essa jornada não apenas expandiu minha compreensão sobre os processos envolvidos na construção de uma aplicação web, abrangendo tanto o desenvolvimento backend quanto frontend, mas também proporcionou um entendimento sobre a integração de ambas as partes. Outra parte foi o aprendizado inicial significativo sobre a metodologia ágil, destacando a importância da flexibilidade e colaboração em um ambiente dinâmico de desenvolvimento. Essa experiência desafiadora não apenas ampliou meu conjunto de habilidades, mas também fortaleceu minha resiliência e capacidade de aprendizado contínuo.</p>
 
-<h3>Soft Skills</h3>
+<h3 id="hard-skills">Hard Skills</h3>
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+<table align="center">
+  <tr>
+    <th width="300px">Tecnologia/Metodologia</th>
+    <th width="300px">Classificação</th>
+  </tr>
+  <tr>
+    <td>Product Owner</td>
+    <td>★★★★★★☆☆☆☆</td>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>★★★★★★☆☆☆☆</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>★★★★★★★★☆☆</td>
+  </tr>
+  <tr>
+    <td>Flask</td>
+    <td>★★★★★★★☆☆☆</td>
+  </tr>
+  <tr>
+    <td>MariaDB</td>
+    <td>★★★★★★★★☆☆</td>
+  </tr>
+</table>
+</details>
 
-<p align="justify"> Proatividade:</p>
+<h3 id="soft-skills">Soft Skills</h3>
+<details>
+<summary><b>Clique para ver a lista de soft skills</b></summary>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Colaboração</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Empatia</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Inteligência Emocional</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Resiliência</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+  </table>
+</details>
+
+<p align="justify"> <b>Proatividade:</b> Desde o início, busquei aprender as novas tecnologias, mesmo sem possuir o conhecimento prévio em programação ou metodologia ágil, me esforçando para colaborar ativamente com colegas de equipe, oferecendo apoio em suas tarefas e compartilhando conhecimentos.</p>
 
 <hr>
 
@@ -48,6 +111,8 @@ Em 2022, iniciei meu curso na FATEC em Desenvolvimento de Software Multiplatafor
 <p align="center"> <img src="img/img3.png" alt="LogoTswift" class="center" width=900/> </p>
 <h4>2023.1</h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.jaia.software">Jaia Software</a></p>
+
+[Link para o repositório](https://github.com/TSwiftDSM)
 
 :warning: **Problema:**
 
