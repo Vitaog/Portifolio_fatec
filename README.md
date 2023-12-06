@@ -135,14 +135,66 @@ Em 2022, iniciei meu curso na FATEC em Desenvolvimento de Software Multiplatafor
 - Figma - Plataforma utilizada para desenvolvimento e prototipação de wireframes
 
 <h3>Contribuições Pessoais</h3>
+<p align="justify">Neste projeto, exerci a função de desenvolvedor backend, colaborando na implementação do CRUD de produtos, CRUD de fornecedores, recusa da entrega na etapa de recebimento, CRUD de usuários, mudança do status da entrega e criação de end points para validação de todas as etapas.</p>
 
 <h3>Lições Aprendidas</h3>
+<p align="justify">Embora não tenha desempenhado o papel de Product Owner neste projeto, pude aprimorar minha compreensão abrangente do cenário ao ter a experiência de trabalhar diretamente com o primeiro cliente externo. O aprendizado e o progresso com a linguagem TypeScript foram notavelmente mais sólidos em comparação com Python, considerando especialmente o desafio associado à adaptação da estrutura do projeto, com a introdução dos controllers e services em conjunto com o framework Express. Apesar dessas complexidades, conseguimos concluir o projeto de maneira bem-sucedida, atendendo a todas as funcionalidades solicitadas pelo cliente.</p>
 
 <h3>Hard Skills</h3>
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>React</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Typescript</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Express</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>MySQL</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+  </table>
+</details>
 
 <h3>Soft Skills</h3>
+<details>
+<summary><b>Clique para ver a lista de soft skills</b></summary>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+     <tr>
+      <td>Comprometimento</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Adaptabilidade</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Resiliência</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+  </table>
+</details>
 
-<p align="center"> :</p>
+<p align="justify"> <b>Comprometimento:</b> Neste projeto, mantive um compromisso constante com a conclusão eficiente das tarefas que me propus a realizar, sempre entregando dentro dos prazos estipulados, com disposição para contribuir ativamente para o sucesso do time e da organização, demonstrando assim um comprometimento sólido com os objetivos estabelecidos.</p>
 
 <hr>
 
